@@ -1,0 +1,34 @@
+{"code":200,
+  "status":"OK",
+  "results":{
+    "datetime":
+    [
+    {"times":
+    {"Imsak":"03:49",
+      "Sunrise":"05:24",
+      "Fajr":"03:59",
+      "Dhuhr":"12:00",
+      "Asr":"15:37",
+      "Sunset":"18:35",
+      "Maghrib":"18:49",
+      "Isha":"20:00",
+      "Midnight":"23:17"},
+      "date":{"timestamp":1629331200,
+        "gregorian":"2021-08-19",
+        "hijri":"1443-01-11"}}],
+    "location":
+    {"latitude":30.78847,
+      "longitude":31.00192,
+      "elevation":33.0,
+      "city":"Tanta",
+      "country":"Egypt",
+      "country_code":"EG",
+      "timezone":"Africa/Cairo",
+      "local_offset":2.0},
+    "settings":{"timeformat":"HH:mm tt",
+      "school":"Ithna Ashari",
+      "juristic":"Shafii",
+      "highlat":"None",
+      "fajr_angle":18.0,
+      "isha_angle":18.0}}}
+
